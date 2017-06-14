@@ -8,7 +8,7 @@
 - Turn on bluetooth and GPS on the phone
 - Open the APP, wait untill the connnect icon changes to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/bluetooth.png)
 - select sat/tp, set up the Antenna LNB/22K/Diseqc
-- After GPS is available, follow the red arrow line to move satellite dish, and make the signal strength and quality to best state. 
+- Follow the red arrow line to move satellite dish after GPS is available, and make the signal strength and quality to best state. 
 - The signal strength will turn to Green once locked
 
 
@@ -23,6 +23,6 @@
 ### Phone side
 - Turn on GPS on the phone
 - Open the APP, select sat/tp, set up the Antenna LNB/22K/Diseqc
-- Wait untill the connect icon has changed to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png)
-- After GPS is available, follow the red arrow line to move satellite dish, and make the signal strength and quality to best state. 
+- Wait untill the connect icon changes to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png)
+- Follow the red arrow line to move satellite dish after GPS is available, and make the signal strength and quality to best state. 
 - The signal strength will turn to Green once locked
