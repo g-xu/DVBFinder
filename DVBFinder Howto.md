@@ -1,3 +1,8 @@
+## DVBFinder APP
+![image](https://github.com/g-xu/DVBFinder/blob/master/pic/menu.png)
+
+----
+
 ## DVBFinder with dongle
 ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/dongle.png)
 
@@ -11,7 +16,6 @@
 - Follow the red arrow line to move satellite dish after GPS is available, and make the signal strength and quality to best state. 
 - The signal strength will turn to Green once locked
 - Tap the search icon to search current tp and check the programs
-
 
 ----
 
@@ -28,3 +32,4 @@
 - Follow the red arrow line to move satellite dish after GPS is available, and make the signal strength and quality to best state. 
 - The signal strength will turn to Green once locked
 - Tap the search icon to search current tp and check the programs
+
