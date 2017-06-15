@@ -17,7 +17,7 @@
 - Open DVBFinder, wait untill the connnect icon changes from ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/unconnect.png) to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/bluetooth.png)
 - Select sat/tp, set up the Antenna LNB/22K/Diseqc
   > ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/setting.png)
-- Follow the red arrow line to move satellite dish after GPS is available
+- Follow the red arrow line ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/arrow.png)to move satellite dish after GPS is available
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
 - Tap the search icon to search current tp and check the programs
 
@@ -34,7 +34,7 @@
 - Open DVBFinder, select sat/tp, set up the Antenna LNB/22K/Diseqc
   > ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/setting.png)
 - Wait untill the connect icon changes from ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/unconnect.png) to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png)
-- Follow the red arrow line to move satellite dish after GPS is available
+- Follow the red arrow line ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/arrow.png)to move satellite dish after GPS is available
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
 - Tap the search icon to search current tp and check the programs
 
