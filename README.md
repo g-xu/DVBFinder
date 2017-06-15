@@ -28,7 +28,8 @@
 
 ### STB side
 - Make sure the STB is connected to Internet
-- Scan the QRcode of "Connect Server" in STB DVBFinder menu
+- Scan the QRcode of "Find Satellite" in STB DVBFinder menu
+	> ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/boxmenu.png)
 ### Phone side
 - Turn on GPS on the phone
 - Open DVBFinder, select sat/tp, set up the Antenna LNB/22K/Diseqc
