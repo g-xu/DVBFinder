@@ -19,7 +19,7 @@
   > ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/setting.png)
 - Follow the red arrow line ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/arrow.png)to move satellite dish after GPS is available
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
-- Tap the search icon to search current tp and check the programs
+- Tap the search icon ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/search.png) to search current tp and check the programs
 
 ----
 
@@ -36,5 +36,5 @@
 - Wait untill the connect icon changes from ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/unconnect.png) to ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png)
 - Follow the red arrow line ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/arrow.png)to move satellite dish after GPS is available
 - Fine tune dish to maximize signal strength and quality. Signal strength indicator will change to Green once locked
-- Tap the search icon to search current tp and check the programs
+- Tap the search icon ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/search.png) to search current tp and check the programs
 
