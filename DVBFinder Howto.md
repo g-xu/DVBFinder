@@ -1,6 +1,9 @@
 ## DVBFinder APP
 ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/menu.png)
-
+- ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/search.png) search icon, search current tp if locked
+- ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/satellite.png)  list icon, add new sat or tp
+- ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/unconnect.png) ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/bluetooth.png) ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png) connect icon, show current connect status
+- ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/qr.png) qrcode icon, scan the qrcode on receiver
 ----
 
 ## DVBFinder with dongle
