@@ -28,7 +28,7 @@
 
 ### STB side
 - Make sure the STB is connected to Internet
-- Scan the QRcode of "Find Satellite" in STB DVBFinder menu
+- Scan the QRcode of "Find Satellite" in STB DVBFinder menu, as below
 	> ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/boxmenu.png)
 ### Phone side
 - Turn on GPS on the phone
