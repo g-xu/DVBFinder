@@ -6,9 +6,10 @@
 - ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/unconnect.png) ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/bluetooth.png) ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/net_connected.png) connect icon, show current connection status
 - ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/qr.png) scan icon, scan the qrcode on receiver
 
-### multi tp view
+### polor tune menu
 ![image](https://github.com/g-xu/DVBFinder/blob/master/pic/tps.png)
-- Touch four quadrants to select different tp, and the signal strength will be refreshed periodically
+- Touch four quadrants to select different tp, and the signal quality will be refreshed periodically
+- Use this to fine tune the H/V polor
 ----
 
 ## DVBFinder with dongle
