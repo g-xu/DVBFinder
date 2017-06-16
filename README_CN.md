@@ -13,7 +13,7 @@
 ----
 
 ## 寻星大师加适配器的用法
-![image](https://github.com/g-xu/DVBFinder/blob/master/pic/dongle.png)
+![image](https://github.com/g-xu/DVBFinder/blob/master/pic/dongle_cn.png)
 
 ### 适配器端
 - 将适配器与卫星锅高频头相连，并使用充电宝供电
@@ -30,7 +30,7 @@
 ----
 
 ## 寻星大师加机顶盒的用法
-![image](https://github.com/g-xu/DVBFinder/blob/master/pic/stb.png)
+![image](https://github.com/g-xu/DVBFinder/blob/master/pic/stb_cn.png)
 
 ### 机顶盒端
 - 首先确保机顶盒已经连接到网络
